@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @charuneethanawong
 - 👀 I’m interested in Backend developer
-- 🌱 I’m currently learning about Node.js React.js
+- 🌱 I’m currently learning about Node.js React.js by myself
 
 
 <!---
